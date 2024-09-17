@@ -6,15 +6,15 @@ const CONFIG = {
     role: "data product developer",
     bio: "I develop everything using node.",
     email: "keepnickname@gmail.com",
-    linkedin: "keepnickname",
+    linkedin: "",
     github: "keepnickname",
     instagram: "",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
+    //{
+    //  name: `morethan-log`,
+    //  href: "https://github.com/morethanmin/morethan-log",
+    //},
   ],
   // blog setting (required)
   blog: {
